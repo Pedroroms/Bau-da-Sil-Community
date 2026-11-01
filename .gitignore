@@ -1,0 +1,12 @@
+# Proteger credenciais e dados pessoais
+ADMIN-EXCLUSIVO/
+.segredos/
+**/.dados-locais/
+**/node_modules/
+**/*.pem
+**/*privada*
+**/*privado*
+**/licenca.txt
+**/segredo.txt
+*.log
+*.zip
